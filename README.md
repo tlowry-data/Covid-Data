@@ -1,2 +1,3 @@
 # Covid-Data
- Working analysis of Covid 19 Case Surveillance Data wiht Geography
+ Working analysis of Covid 19 Case Surveillance Data with Geography data.
+ 
